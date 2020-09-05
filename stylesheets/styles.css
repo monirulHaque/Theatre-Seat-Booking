@@ -110,6 +110,12 @@ p.text {
   margin: 5px;
 }
 
+p.text.small {
+  color: aliceblue;
+  font-size: 12px;
+  margin: 5px;
+}
+
 p.text span {
   color: #6feaf6;
 }
