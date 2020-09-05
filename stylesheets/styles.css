@@ -37,6 +37,10 @@ body {
   appearance: none;
 }
 
+.movie-containter .movie {
+  margin-left: 10px;
+}
+
 .seat {
   background-color: #444451;
   height: 12px;
